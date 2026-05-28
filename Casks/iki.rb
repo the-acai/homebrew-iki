@@ -1,6 +1,6 @@
 cask "iki" do
-  version "1.4.5"
-  sha256 "754da036e3e5abf0aeaba87e4aa084084b772314b8b29972a415f82b115f5f9d"
+  version "1.4.6"
+  sha256 "79c854b2aaa4dd4466665eab56c04940f1aa4ec889fcf379e4ac8f355f0894e3"
 
   url "https://github.com/the-acai/iki/releases/download/v#{version}/Iki-#{version}.dmg"
   name "Iki"
